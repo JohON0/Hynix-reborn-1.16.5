@@ -59,7 +59,7 @@ import java.util.List;
 @Getter
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class HynixMain {
-
+    //типо накодил изменения там или чо еще
     public boolean playerOnServer = false;
 
     public static final String version = "0.4.2";
